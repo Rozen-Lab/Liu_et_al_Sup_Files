@@ -1,3 +1,5 @@
+### _*This repository is superseded by https://github.com/Rozen-Lab/mSigHdp_sup_files.*_
+
 This repository contains supplementary files - synthetic data, code, and analytically results - 
 for the manuscript
 
